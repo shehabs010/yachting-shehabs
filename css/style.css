@@ -2015,15 +2015,15 @@ p {
 }
 .background-after-video{
 }
-/* .background-after-video::after{
+.background-after-video::after{
     position: absolute !important;
     content: '' !important;
     width: 100% !important;
     height: 100% !important;
-    background: rgba(0, 0, 0, 0.72) !important;
-
+    background: rgba(0, 0, 0, 0.2) !important;
+	top:0;
     z-index: -1;
-} */
+} 
 #myVideo{
 	position: absolute;
     width: 100%;
@@ -2108,7 +2108,7 @@ p {
 
 /* 7.1.4 - Full Width Message */
 .full-width-message-wrapper {
-	background:#1a1f2b;
+	background:#d51616;
 	width: 100%;
 	color: #fff;
 	padding: 80px 0;
