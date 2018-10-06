@@ -7,6 +7,7 @@ $(document).ready(function($) {
 
 	"use strict";
 
+
 	$(window).stellar({
     responsive: false,
     parallaxBackgrounds: true,
