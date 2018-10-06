@@ -9046,8 +9046,8 @@ textarea.form-control {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   background-color: rgba(255, 255, 255, 0.9);
-  -webkit-box-shadow: 0px 24px 64px rgba(0, 0, 0, 0.24);
-  box-shadow: 0px 24px 64px rgba(0, 0, 0, 0.24);
+  -webkit-box-shadow: #b11013;
+  box-shadow:#b11013;
   border-radius: 16px;
   opacity: 0;
   visibility: hidden;
